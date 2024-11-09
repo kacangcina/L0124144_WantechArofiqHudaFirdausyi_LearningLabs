@@ -1,0 +1,2 @@
+Website ini merupakan web yang berisi informasi seputar game Persona 3 Reload. Pengunjung dapat melakukan scroll web untuk
+melihat berbagai macam informasi dari game tersebut. Di web ini terdapat 4 halaman, yaitu Home, Features, Characters, dan Feedback
