@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+header {
+    background-color: #00bbfa;
+}
+
+.logo {
+    align-items: center;
+    width: 100px;
+    position: relative;
+    justify-items: center;
+    display: flex;
+}
+
+main {
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+main h1 {
+    font-family:"Cinzel", serif;
+    font-size: 50px;
+    padding-bottom: 4rem;
+    
+}
+
+.img {
+    float: right;
+    height: 400px;
+}
+
+.img2 {
+    float: right;
+    height: 430px;
+}
+
+.paragraph {
+    font-family:"Urbanist", sans-serif;
+    padding-bottom: 1rem;
+    padding-right: 60%;
+    
+}
+.bg {
+    z-index: -1;
+}
+
+nav {
+    top: 0;
+    right: 0;
+    position: fixed;
+    display:flex;
+    justify-content:space-between;
+    gap: 4rem;
+    font-family:"Noto Sans JP", sans-serif;
+    font-size: 150%;
+    padding: 4rem;
+    padding-right: 6rem;
+    
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  justify-content:center;
+  align-items: center;
+}
+
+aside {
+    width: 30%;
+    padding: 15px;
+    background-color: #00bbfa;
+    font-family:"Urbanist", sans-serif;
+
+}
+
+footer {
+    text-align: center;
+    background-color:#00bbfa ;
+    padding: 10px;
+    font-family:"Urbanist", sans-serif;
+    color: white;
+}
